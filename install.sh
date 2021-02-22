@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Checking system..."
 cd /tmp
 echo "Installing gimp..."
 sudo apt install -y gimp > /dev/null
